@@ -1,0 +1,1 @@
+ Gold price from 1978 till 2021 is going to be used for this project (data is downloaded from Kaggle).
